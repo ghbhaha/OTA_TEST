@@ -20,11 +20,11 @@ res\values\strings.xml，修改version_url（版本号），update_info_url（�
 
 disk_url（百度网盘），最后别忘了用我提供的工具签名
 
-https://raw.githubusercontent.com/ghbhaha/OTA_TEST/master/version
+https://raw.githubusercontent.com/ghbhaha/OTA_TEST/Server/version
 
 （将ghbhaha改成你的账号，该地址为打开version后点击raw得到的）
 
-https://raw.githubusercontent.com/ghbhaha/OTA_TEST/master/update_info
+https://raw.githubusercontent.com/ghbhaha/OTA_TEST/Server/update_info
 
 （将ghbhaha改成你的账号，该地址为打开update_info后点击raw得到的）
 

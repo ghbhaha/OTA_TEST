@@ -9,8 +9,8 @@
     <string name="net_error">A network error occurred!</string>
     <string name="isnew">This is the latest version!</string>
     <string name="nisnew">Detect the latest version,please download the latest one in Baidu SkyDrive!</string>
-    <string name="version_url">https://raw.githubusercontent.com/ghbhaha/OTA_TEST/master/version</string>
-	<string name="update_info_url">https://raw.githubusercontent.com/ghbhaha/OTA_TEST/master/update_info</string>
+    <string name="version_url">https://raw.githubusercontent.com/ghbhaha/OTA_TEST/Server/version</string>
+	<string name="update_info_url">https://raw.githubusercontent.com/ghbhaha/OTA_TEST/Server/update_info</string>
 	<string name="disk_url">http://pan.baidu.com/s/1o6Dhmqu</string>
     <string name="about">About</string>
     <string name="recovey">Reboot recovery</string>
