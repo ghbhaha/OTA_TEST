@@ -13,6 +13,7 @@
 1.申请github账号，将我的的OTA_TEST开源项目Fork
 
 2.了解安卓开发的朋友可以直接将我的项目导入，进行修改编译
+
 注意：调用SystemProperties.get("ro.mk.version");
       需要导入layoutlib.jar 具体可以参考http://blog.sina.com.cn/s/blog_6b597ccb0100ywrw.html
 
