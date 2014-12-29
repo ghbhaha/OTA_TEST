@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources> 
+    <dimen name="activity_horizontal_margin">16.0dip</dimen>
+    <dimen name="activity_vertical_margin">16.0dip</dimen>
+    <dimen name="checkmark_area">40.0dip</dimen>
+    <dimen name="group_height">36.0dip</dimen>
+    <dimen name="item_height">64.0dip</dimen>
+    <dimen name="item_padding">8.0dip</dimen>
+    <dimen name="item_icon_width">48.0dip</dimen>
+    <dimen name="item_icon_margin_left">13.0dip</dimen>
+    <dimen name="item_icon_margin_right">13.0dip</dimen>
+    <dimen name="item_status_margin_left">12.0dip</dimen>
+    <dimen name="item_status_margin_right">12.0dip</dimen>
+    <dimen name="item_progress_min_width">150.0dip</dimen>
+    <dimen name="item_info_margin_right">72.0dip</dimen>
+    <dimen name="item_info_percent_width">52.0dip</dimen>
+    <dimen name="item_title_font">14.0dip</dimen>
+    <dimen name="item_size_font">12.0dip</dimen>
+    <dimen name="list_big_padding_bottom">48.0dip</dimen>
+    <dimen name="list_small_padding_bottom">16.0dip</dimen>
+    <dimen name="title_bar_height">50.0dip</dimen>
+</resources>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg_updater_text_black_color">#ff0a0a0a</color>
+    <color name="empty_text_font_color">#ff515151</color>
+    <color name="version_title_font_color">#ff349dee</color>
+    <color name="version_title_font_color_for_snake">#ffdd0d0d</color>
+    <color name="button_solid_color">#ffd5d9de</color>
+    <color name="button_selected_start_color">#ff5fa4f9</color>
+    <color name="button_selected_end_color">#ff4a91f4</color>
+    <color name="button_pressed_start_color">#ff5fa4f9</color>
+    <color name="button_pressed_end_color">#ff4a91f4</color>
+    <color name="button_defalut_start_color">#fff7f8fa</color>
+    <color name="button_defalut_end_color">#fff7f8fa</color>
+    <color name="diliver_line_color">#ffe1e2e6</color>
+    <color name="version_msg_new">#ff0074f7</color>
+    <color name="version_msg_current">#ff3b3b3b</color>
+    <color name="color_hei">#ff000000</color>
+    <color name="custom_theme_color">#ffffffff</color>
+    <color name="white">#ffffffff</color>
+    <color name="gray">#ff666666</color>
+    <color name="lite_gray">#ffd0cece</color>
+    <color name="black">#ff151515</color>
+    <color name="blue">#ff3399cc</color>
+    <color name="yellow">#fff2ec3e</color>
+</resources>
