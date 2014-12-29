@@ -31,8 +31,12 @@ version：当前版本
 
 info_版本号：相应版本对应日志
 
-ydss_url:更新下载所需定位的网址
+ydss_url：更新下载所需定位的网址
 
 具体可以参考https://github.com/ghbhaha/OTA_TEST/tree/bacon_mokee
 
-
+界面截图
+---------------
+![Image text](https://github.com/ghbhaha/OTA_TEST/blob/Android_New/screenshots/Screenshot_2014-12-29-14-19-55.png)
+![Image text](https://github.com/ghbhaha/OTA_TEST/blob/Android_New/screenshots/Screenshot_2014-12-29-14-19-59.png)
+![Image text](https://github.com/ghbhaha/OTA_TEST/blob/Android_New/screenshots/Screenshot_2014-12-29-14-20-04.png)
