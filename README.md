@@ -19,9 +19,9 @@
 注意：调用SystemProperties.get("ro.mk.version");
       需要导入layoutlib.jar 具体可以参考http://blog.sina.com.cn/s/blog_6b597ccb0100ywrw.html
 
-3.普通机油可以反编译我提供的成品，反编译修改打开
+3.普通机油可以反编译SudaUpdater\bin中的成品
 
-res\values-zh-rCN\strings.xml，修改base_url（基准地址）
+打开res\values-zh-rCN\strings.xml，修改base_url（基准地址）
 
 https://raw.githubusercontent.com/ghbhaha/OTA_TEST/bacon_mokee/
 
