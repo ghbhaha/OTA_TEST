@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Updater</string>
-	<string name="check_version">Check for updates</string>
+    <string name="check_version">Check for updates</string>
     <string name="disk">Baidu SkyDrive</string>
     <string name="updateinfo">Update information</string>
     <string name="current_version">Current version:</string>

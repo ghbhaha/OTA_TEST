@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="tip_read_version">查阅发布亮点和用户更新说明</string>
-    <string name="check_version">检查更新</string>
+    <string name="check_version">检测更新</string>
     <string name="disk">百度网盘</string>
     <string name="app_name">Rom更新器</string>
     <string name="updateinfo">更新日志</string>

@@ -1,13 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <item type="drawable" name="white">#ffffffff</item>
     <item type="drawable" name="transparent">#00000000</item>
     <item type="drawable" name="new_v6">#19000000</item>
-    <item type="drawable" name="bg_white">#fff2f2f2</item>
-    <item type="drawable" name="black">#ff000000</item>
-    <item type="drawable" name="percent_color">#fffaffa8</item>
-    <item type="drawable" name="title_color">#ff3a3a3a</item>
-    <item type="drawable" name="summary_color">#ff000000</item>
-    <item type="drawable" name="can_not_ota_color">#ff656565</item>
-    <item type="drawable" name="btn_notes_color">#ff444444</item>
 </resources>
