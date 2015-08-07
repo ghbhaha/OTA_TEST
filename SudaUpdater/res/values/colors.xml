@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="diliver_line_color">#ffe1e2e6</color>
+    <color name="version_msg_new">#ff0074f7</color>
+    <color name="version_msg_current">#ff3b3b3b</color>
+</resources>

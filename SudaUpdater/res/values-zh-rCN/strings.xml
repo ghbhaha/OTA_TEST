@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tip_read_version">查阅发布亮点和用户更新说明</string>
+    <string name="check_version">检测更新</string>
+    <string name="disk">百度网盘</string>
+    <string name="app_name">Rom更新器</string>
+    <string name="updateinfo">更新日志</string>
+    <string name="current_version">当前版本:</string>
+    <string name="latest_version">最新版本:</string>
+    <string name="net_error">网络错误，请重试</string>
+    <string name="about">关于</string>
+    <string name="recovey">重启至recovery</string>
+    <string name="reboot_recovery">重启至recovery?</string>
+    <string name="confirm">确定</string>
+    <string name="cancel">取消</string>        
+    <string name="author_info">欢迎使用移动叔叔更新器</string>   
+    <string name="isnew">当前已是最新版本，无需更新</string>
+    <string name="nisnew">检测到新版本</string>  
+    <string name="infonull">暂无更新内容</string>
+    <string name="download">下载更新包</string>  
+    <string name="base_url">https://raw.githubusercontent.com/ghbhaha/OTA_TEST/bacon_mokee/</string>
+ </resources>

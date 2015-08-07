@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 移动叔叔图片高度 -->
+    <dimen name="ydss_picture">180dip</dimen>
+    <!-- 按钮距离底部高度-->    
+    <dimen name="botton_marginBottom">20dip</dimen>
+    <!-- 按钮宽度-->        
+    <dimen name="botton_width">170dip</dimen>
+    <!-- 标题高度-->                
+    <dimen name="title_height">40dip</dimen>      
+    <!-- 字体大小-->                
+    <dimen name="text_size">15dip</dimen>        
+</resources>

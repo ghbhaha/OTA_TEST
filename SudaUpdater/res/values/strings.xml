@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Updater</string>
+    <string name="check_version">Check for updates</string>
+    <string name="disk">Baidu SkyDrive</string>
+    <string name="updateinfo">Update information</string>
+    <string name="current_version">Current version:</string>
+    <string name="lates_version">Latest\t\t version:</string>
+    <string name="net_error">A network error occurred!</string>
+    <string name="isnew">This is the latest version!</string>
+    <string name="nisnew">Detect the latest version,please download the latest one in Baidu SkyDrive!</string>
+    <string name="about">About</string>
+    <string name="recovey">Reboot recovery</string>
+    <string name="reboot_recovery">Reboot recovery?</string>
+    <string name="confirm">Ok</string>
+    <string name="cancel">Cancel</string>        
+    <string name="author_info">author:Suda\nemail:510146422@qq.com</string>     
+</resources>
